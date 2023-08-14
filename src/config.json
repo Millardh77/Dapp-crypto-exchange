@@ -1,48 +1,48 @@
 {
   "31337": {
     "exchange": {
-      "address": "0xCf7Ed3AccA5a467e9e704C703E8D87F634fB0Fc9"
+      "address": "0x84eA74d481Ee0A5332c457a4d796187F6Ba67fEB"
     },
-    "DApp": {
-      "address": "0x5FbDB2315678afecb367f032d93F642f64180aa3"
+    "mcht": {
+      "address": "0x67d269191c92Caf3cD7723F116c85e6E9bf55933"
     },
     "mETH": {
-      "address": "0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512"
+      "address": "0xE6E340D132b5f46d1e472DebcD681B2aBc16e57E"
     },
     "mDAI": {
-      "address": "0x9fE46736679d2D9a65F0992F2272dE9f3c7fa6e0"
+      "address": "0xc3e53F4d16Ae77Db1c982e75a937B9f60FE63690"
     },
     "explorerURL": "#"
   },
   "5": {
     "exchange": {
-      "address": "0xe073a22C68b64cf1f71b02B484B0785B207969ce"
+      "address": "0x6A300dC7DF0dC311F018004cbE41B8bf84196850"
     },
-    "DApp": {
-      "address": "0x53963d192C06c46688beF632929eE5C0f851720a"
+    "mcht": {
+      "address": "0x9f3665A4a042bd30B72C81f486D06958A5B66577"
     },
     "mETH": {
-      "address": "0x4a6d56C36dfbdB4cd2D78a71674DE0C4E2F8Cd8F"
+      "address": "0xc2c730D2459B8F61c544247c0237B6A186eD8156"
     },
     "mDAI": {
-      "address": "0x0be38e6786306A9072cc7FB1bD1483d069684C50"
+      "address": "0x70004D5f8AAE0f8069FFB6889142077056fa138A"
     },
     "explorerURL": "https://goerli.etherscan.io/"
   },
-  "80001": {
+  "11155111": {
     "exchange": {
-      "address": "0x447c6bb99e4Ef42bad074Ac218AAe9C545499143"
+      "address": "0x1b660AbCb0564db11Bd3C8cFe6CaF807E49F6609"
     },
-    "DApp": {
-      "address": "0x4a6d56C36dfbdB4cd2D78a71674DE0C4E2F8Cd8F"
+    "mcht": {
+      "address": "0xC74451A5a74c5F460eF3A5fA0aE3ab9b2783b867"
     },
     "mETH": {
-      "address": "0x0be38e6786306A9072cc7FB1bD1483d069684C50"
+      "address": "0x9A3285C4f4DC9502cC207785B3eee7D554ea31c4"
     },
     "mDAI": {
-      "address": "0xe073a22C68b64cf1f71b02B484B0785B207969ce"
+      "address": "0x4F8346479561c3d847D69d94d0A5B9B9693B576D"
     },
-    "explorerURL": "https://mumbai.polygonscan.com/"
+    "explorerURL": "https://sepolia.etherscan.io/"
   }
 
 }

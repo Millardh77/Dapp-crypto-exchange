@@ -15,7 +15,7 @@ describe('Exchange', () => {
     const Exchange = await ethers.getContractFactory('Exchange')
     const Token = await ethers.getContractFactory('Token')
 
-    token1 = await Token.deploy('Dapp University', 'DAPP', '1000000')
+    token1 = await Token.deploy('MCH Media Group', 'MCHT', '1000000')
     token2 = await Token.deploy('Mock Dai', 'mDAI', '1000000')
 
     accounts = await ethers.getSigners()
@@ -301,6 +301,7 @@ describe('Exchange', () => {
         })
 
         it('updates filled orders', async () => {
+          console.log("order filled:", await exchange.orderFilled(1))
           expect(await exchange.orderFilled(1)).to.equal(true)
         })
 
